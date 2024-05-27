@@ -3,6 +3,15 @@ ICL code for Hyporadise dataset of different example selection method
 
 - Authors: Siyin Wang, Chao-Han Huck Yang, Ji Wu, Chao Zhang
 
+- System
+  
+<img src="https://github.com/chan-ming/Hyporadise-icl/blob/main/real-bycs.png" width="500">
+
+- Result
+
+<img src="https://github.com/chan-ming/Hyporadise-icl/blob/main/hypo-baseline.png" width="500">
+
+
 
 Please consider to cite below works if you find the baseline is useful. Thank you.
 - References
