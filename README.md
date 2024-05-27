@@ -1,8 +1,10 @@
 # Hyporadise In-Context Learning Baseline
 ICL code for Hyporadise dataset of different example selection method
 
+- Authors: Siyin Wang, Chao-Han Huck Yang, Ji Wu, Chao Zhang
 
-Please consider to cite below works if you find the baseline is useful.
+
+Please consider to cite below works if you find the baseline is useful. Thank you.
 - References
 
 ```bib
