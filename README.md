@@ -1,5 +1,7 @@
 # Hyporadise In-Context Learning Baseline
-ICL code for Hyporadise dataset of different example selection method
+ICL code for Hyporadise dataset of different example selection method, EMNLP 2024, 
+
+[Paper](https://arxiv.org/pdf/2404.14716) | [Colab](https://colab.research.google.com/drive/1AXKFr1OFqfeB2Jy4w2ipaNdxaNJujOhd?usp=sharing)
 
 - Authors: Siyin Wang, Chao-Han Huck Yang, Ji Wu, Chao Zhang
 
