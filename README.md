@@ -26,7 +26,7 @@ ICL code for ByCS on ASR LLM correction with different example selection methods
 @article{wang2024bayesian,
   title={Bayesian Example Selection Improves In-Context Learning for Speech, Text, and Visual Modalities},
   author={Wang, Siyin and Yang, Chao-Han Huck and Wu, Ji and Zhang, Chao},
-  journal={EMNLP main},
+  journal={arxiv},
   year={2024}
 }
 
