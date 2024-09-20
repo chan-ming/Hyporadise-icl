@@ -15,8 +15,6 @@ ICL code for ByCS on ASR Hyporadise dataset of different example selection metho
 <img src="https://github.com/chan-ming/Hyporadise-icl/blob/main/hypo-baseline.png" width="500">
 
 
-
-Please consider to cite below works if you find the baseline is useful. Thank you.
 - References
 
 ```bib
