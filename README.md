@@ -20,7 +20,7 @@ Please consider to cite below works if you find the baseline is useful. Thank yo
 @article{wang2024bayesian,
   title={Bayesian Example Selection Improves In-Context Learning for Speech, Text, and Visual Modalities},
   author={Wang, Siyin and Yang, Chao-Han Huck and Wu, Ji and Zhang, Chao},
-  journal={arXiv preprint arXiv:2404.14716},
+  journal={EMNLP main},
   year={2024}
 }
 
