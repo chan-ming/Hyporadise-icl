@@ -6,11 +6,11 @@ ICL code for ByCS on ASR LLM correction with different example selection methods
 
 - Authors: Siyin Wang, Chao-Han Huck Yang, Ji Wu, Chao Zhang
 
-- Bayesian Example Selection Method
+- ByCS: Bayesian Example Selection Method
   
 <img src="https://github.com/chan-ming/Hyporadise-icl/blob/main/real-bycs.png" width="500">
 
-- Mechanism
+- ByCS Example
 
 <img src="https://github.com/chan-ming/Hyporadise-icl/blob/main/setup.png" width="500">
 
