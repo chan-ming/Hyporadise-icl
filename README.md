@@ -39,6 +39,12 @@ Action barge-in:
 https://github.com/user-attachments/assets/1c4f75d3-f1f6-41a6-8b95-0b0bf00a8fc0
 https://github.com/user-attachments/assets/e984a659-ec90-4a88-a5fe-1464d2808ffe
 
+Refuse defective instruction:
+https://github.com/user-attachments/assets/974b476f-aafd-494d-b362-acdb9a41f2b9
+https://github.com/user-attachments/assets/c1c516ce-37bb-4447-bddc-35d9b8a8561e
+
+
+
 
 
 - References
